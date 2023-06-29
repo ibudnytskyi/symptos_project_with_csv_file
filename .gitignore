@@ -1,0 +1,6 @@
+# created by virtualenv automatically
+.pytest_cache
+.idea
+bin
+lib
+tests/tests/allure_results
